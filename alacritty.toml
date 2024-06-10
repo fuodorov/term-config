@@ -11,7 +11,7 @@ TERM = "xterm-256color"
 size = 14
 
 [font.normal]
-family = "Hack Nerd Font"
+family = "Source Code Pro"
 style = "Regular"
 
 [[keyboard.bindings]]
@@ -59,8 +59,8 @@ mods = "Command"
 [window]
 decorations = "Buttonless"
 dynamic_padding = true
-opacity = 1
+opacity = 0.5
 
 [window.padding]
-x = 15
-y = 15
+x = 0
+y = 0
